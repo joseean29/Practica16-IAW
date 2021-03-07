@@ -1,4 +1,4 @@
-# Practica16 IAW
+# Práctica 16 
 En esta práctica tendremos que crear un archivo Dockerfile para crear una imagen Docker que contenga una aplicación web LAMP. Posteriormente deberá realizar la implantación del sitio web en Amazon Web Services (AWS) haciendo uso de contenedores Docker y de la herramienta Docker Compose.
 
 Creamos una máquina virtual Amazon EC2 y le abrimos los puertos:
