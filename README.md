@@ -65,8 +65,8 @@ docker-compose up
 
 Tras hacer esto ya nos debería funcionar, y al entrar a la IP de la instancia debería salirnos la base de datos y dejarnos añadir datos.
 
-![]()
+![](https://raw.githubusercontent.com/joseean29/Practica16-IAW/main/images/datos.PNG?token=AOMWPNJGLLRE5W36FNWLZ7TAITNKO)
 
 También debe dejarnos entrar en PhpMyAdmin a través del puerto 8080.
 
-![]()
+![](https://raw.githubusercontent.com/joseean29/Practica16-IAW/main/images/phpmyadmin.PNG?token=AOMWPNIX4POPU7IG4OZXKZTAITNKU)
